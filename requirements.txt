@@ -1,2 +1,2 @@
-duckdb==0.10.0
-pandas==2.2.2
+duckdb==1.4.4
+pandas==2.3.3
