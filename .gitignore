@@ -1,2 +1,3 @@
 .venv/
 data/bronze/
+.pytest_cache/
