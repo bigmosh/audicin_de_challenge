@@ -1,5 +1,6 @@
 .venv/
 data/bronze/
 data/silver/
+data/gold/
 .pytest_cache/
 .vscode/
